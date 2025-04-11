@@ -1,18 +1,17 @@
-## <h1 align="left">Bem vindo ao meu perfil 👋</h1>
+## Bem vindo ao meu perfil👋
 
-###
+- 👨‍🎓 Meu nome é Rafael tenho 18 anos
+- 📘Estou cursando Desenvolvimento de Sistemas;
+- 📍 Sorocaba-SP.
 
-- <p align="left">Meu nome é Rafael tenho 18 anos</p>
-- <p align="left">Algumas das linguagens que estou estudando</p>
+# Algumas linguagens que estou estudando
 
-###
+- 📗Python;
+- 📗HTML;
+- 📗CSS.
 
-<h2 align="left">Projetos</h2>
-
-###
-
-<p align="left">📝70 exercícios em python</p>
-
-###
-
-<h2 align="left"></h2>
+## Meus Projetos:
+- 📁Site do Barcelona;
+- 📁Exercícios Python; 
+- 📁Exercícios Beecrownd;
+- 📁Exercícios Portugol.
